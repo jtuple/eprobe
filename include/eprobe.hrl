@@ -1,0 +1,1 @@
+-define(PROBE(N, E), catch probe:probe(N, E)).
